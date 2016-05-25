@@ -12,7 +12,9 @@
   "devDependencies": {
     "gulp": "^3.9.1",
     "gulp-html-minifier": "^0.1.8",
+    "gulp-inject-string": "^1.1.0",
     "gulp-inline": "^0.1.1",
+    "gulp-rename": "^1.2.2",
     "gulp-uglify": "^1.5.3"
   }
 }

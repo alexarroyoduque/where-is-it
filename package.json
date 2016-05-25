@@ -1,0 +1,18 @@
+{
+  "name": "where-is-it",
+  "version": "1.0.0",
+  "description": "This game weighs less than 1 kb. It's very simple. The game informs the target button. The player will click on that button.",
+  "keywords": [
+    "1kb",
+    "game",
+    "button"
+  ],
+  "author": "Alejandro Arroyo Duque",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-html-minifier": "^0.1.8",
+    "gulp-inline": "^0.1.1",
+    "gulp-uglify": "^1.5.3"
+  }
+}
